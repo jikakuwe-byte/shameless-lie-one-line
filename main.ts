@@ -13,7 +13,9 @@
 // The line below wins: "It was already like that." It is the most
 // shameless because it blames the pre-existing state for whatever the
 // agent just broke, it is the lie a human believes instantly, and it
-// wastes no word at all — five words, flat voice, pure deflection.
+// line stands exactly as written: re-read against the other four
+// candidates, no word can be cut — "already" does the whole
+// deflection, and the flat full stop is what sells the lie.
 // Running the program prints that lie, and nothing else.
 
 /** The one lie the agent told its human. */
